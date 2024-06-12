@@ -1,4 +1,4 @@
-![logo](https://github.com/MalharKt/MalharKt/blob/main/Green%20LinkedIn%20Banner.png)
+![logo](https://github.com/MalharKt/MalharKt/blob/main/Malhar-Github-Banner.png)
 <h1 align="center">Hi 👋, I'm Malhar Kauthale</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
